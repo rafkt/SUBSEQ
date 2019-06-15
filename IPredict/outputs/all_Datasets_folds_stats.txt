@@ -1,0 +1,980 @@
+MSNBC.0
+Dataset length: 54727
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273635.0
+Binary Size (MB): 0.034204375
+MSNBC.1
+Dataset length: 54405
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 272025.0
+Binary Size (MB): 0.034003125
+MSNBC.2
+Dataset length: 54107
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 270535.0
+Binary Size (MB): 0.033816875
+MSNBC.3
+Dataset length: 54723
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273615.0
+Binary Size (MB): 0.034201875
+MSNBC.4
+Dataset length: 54768
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273840.0
+Binary Size (MB): 0.03423
+MSNBC.5
+Dataset length: 54667
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273335.0
+Binary Size (MB): 0.034166875
+MSNBC.6
+Dataset length: 54544
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 272720.0
+Binary Size (MB): 0.03409
+MSNBC.7
+Dataset length: 54591
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 272955.0
+Binary Size (MB): 0.034119375
+MSNBC.8
+Dataset length: 54667
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273335.0
+Binary Size (MB): 0.034166875
+MSNBC.9
+Dataset length: 54617
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273085.0
+Binary Size (MB): 0.034135625
+MSNBC.10
+Dataset length: 54704
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273520.0
+Binary Size (MB): 0.03419
+MSNBC.11
+Dataset length: 54692
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273460.0
+Binary Size (MB): 0.0341825
+MSNBC.12
+Dataset length: 54664
+Alphabet Size: 18
+Number of sequences: 4643
+Average Sequence Length: 11
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273320.0
+Binary Size (MB): 0.034165
+MSNBC.13
+Dataset length: 54771
+Alphabet Size: 18
+Number of sequences: 4641
+Average Sequence Length: 11
+Number of Queries: 359
+Average Query Length: 5
+Bits Needed / Symbol: 5.0
+Binary Size (BITS): 273855.0
+Binary Size (MB): 0.034231875
+SIGN.0
+Dataset length: 63586
+Alphabet Size: 266
+Number of sequences: 678
+Average Sequence Length: 93
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 572274.0
+Binary Size (MB): 0.07153425
+SIGN.1
+Dataset length: 63669
+Alphabet Size: 267
+Number of sequences: 678
+Average Sequence Length: 93
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 573021.0
+Binary Size (MB): 0.071627625
+SIGN.2
+Dataset length: 63733
+Alphabet Size: 267
+Number of sequences: 678
+Average Sequence Length: 94
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 573597.0
+Binary Size (MB): 0.071699625
+SIGN.3
+Dataset length: 63717
+Alphabet Size: 268
+Number of sequences: 678
+Average Sequence Length: 93
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 573453.0
+Binary Size (MB): 0.071681625
+SIGN.4
+Dataset length: 63834
+Alphabet Size: 268
+Number of sequences: 678
+Average Sequence Length: 94
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 574506.0
+Binary Size (MB): 0.07181325
+SIGN.5
+Dataset length: 63733
+Alphabet Size: 267
+Number of sequences: 678
+Average Sequence Length: 94
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 573597.0
+Binary Size (MB): 0.071699625
+SIGN.6
+Dataset length: 63954
+Alphabet Size: 268
+Number of sequences: 678
+Average Sequence Length: 94
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 575586.0
+Binary Size (MB): 0.07194825
+SIGN.7
+Dataset length: 63737
+Alphabet Size: 267
+Number of sequences: 678
+Average Sequence Length: 94
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 573633.0
+Binary Size (MB): 0.071704125
+SIGN.8
+Dataset length: 63896
+Alphabet Size: 268
+Number of sequences: 678
+Average Sequence Length: 94
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 575064.0
+Binary Size (MB): 0.071883
+SIGN.9
+Dataset length: 63486
+Alphabet Size: 263
+Number of sequences: 678
+Average Sequence Length: 93
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 571374.0
+Binary Size (MB): 0.07142175
+SIGN.10
+Dataset length: 63668
+Alphabet Size: 266
+Number of sequences: 678
+Average Sequence Length: 93
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 573012.0
+Binary Size (MB): 0.0716265
+SIGN.11
+Dataset length: 63799
+Alphabet Size: 268
+Number of sequences: 678
+Average Sequence Length: 94
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 574191.0
+Binary Size (MB): 0.071773875
+SIGN.12
+Dataset length: 63594
+Alphabet Size: 263
+Number of sequences: 678
+Average Sequence Length: 93
+Number of Queries: 52
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 572346.0
+Binary Size (MB): 0.07154325
+SIGN.13
+Dataset length: 63693
+Alphabet Size: 266
+Number of sequences: 676
+Average Sequence Length: 94
+Number of Queries: 54
+Average Query Length: 7
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 573237.0
+Binary Size (MB): 0.071654625
+BMS.0
+Dataset length: 54979
+Alphabet Size: 494
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 494811.0
+Binary Size (MB): 0.061851375
+BMS.1
+Dataset length: 54969
+Alphabet Size: 493
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 494721.0
+Binary Size (MB): 0.061840125
+BMS.2
+Dataset length: 55470
+Alphabet Size: 494
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 499230.0
+Binary Size (MB): 0.06240375
+BMS.3
+Dataset length: 54985
+Alphabet Size: 492
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 494865.0
+Binary Size (MB): 0.061858125
+BMS.4
+Dataset length: 55074
+Alphabet Size: 495
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 495666.0
+Binary Size (MB): 0.06195825
+BMS.5
+Dataset length: 55336
+Alphabet Size: 495
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 498024.0
+Binary Size (MB): 0.062253
+BMS.6
+Dataset length: 55281
+Alphabet Size: 491
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 497529.0
+Binary Size (MB): 0.062191125
+BMS.7
+Dataset length: 55508
+Alphabet Size: 494
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 499572.0
+Binary Size (MB): 0.0624465
+BMS.8
+Dataset length: 55288
+Alphabet Size: 491
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 497592.0
+Binary Size (MB): 0.062199
+BMS.9
+Dataset length: 55611
+Alphabet Size: 495
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 500499.0
+Binary Size (MB): 0.062562375
+BMS.10
+Dataset length: 55167
+Alphabet Size: 493
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 496503.0
+Binary Size (MB): 0.062062875
+BMS.11
+Dataset length: 55309
+Alphabet Size: 494
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 497781.0
+Binary Size (MB): 0.062222625
+BMS.12
+Dataset length: 55063
+Alphabet Size: 494
+Number of sequences: 4518
+Average Sequence Length: 12
+Number of Queries: 347
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 495567.0
+Binary Size (MB): 0.061945875
+BMS.13
+Dataset length: 55317
+Alphabet Size: 495
+Number of sequences: 4511
+Average Sequence Length: 12
+Number of Queries: 354
+Average Query Length: 5
+Bits Needed / Symbol: 9.0
+Binary Size (BITS): 497853.0
+Binary Size (MB): 0.062231625
+BIBLE_CHAR.0
+Dataset length: 620521
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 133
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4343647.0
+Binary Size (MB): 0.542955875
+BIBLE_CHAR.1
+Dataset length: 621411
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 133
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4349877.0
+Binary Size (MB): 0.543734625
+BIBLE_CHAR.2
+Dataset length: 621184
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 133
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4348288.0
+Binary Size (MB): 0.543536
+BIBLE_CHAR.3
+Dataset length: 622288
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 134
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4356016.0
+Binary Size (MB): 0.544502
+BIBLE_CHAR.4
+Dataset length: 623077
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 134
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4361539.0
+Binary Size (MB): 0.545192375
+BIBLE_CHAR.5
+Dataset length: 622560
+Alphabet Size: 74
+Number of sequences: 4643
+Average Sequence Length: 134
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4357920.0
+Binary Size (MB): 0.54474
+BIBLE_CHAR.6
+Dataset length: 620898
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 133
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4346286.0
+Binary Size (MB): 0.54328575
+BIBLE_CHAR.7
+Dataset length: 621263
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 133
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4348841.0
+Binary Size (MB): 0.543605125
+BIBLE_CHAR.8
+Dataset length: 622816
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 134
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4359712.0
+Binary Size (MB): 0.544964
+BIBLE_CHAR.9
+Dataset length: 621438
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 133
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4350066.0
+Binary Size (MB): 0.54375825
+BIBLE_CHAR.10
+Dataset length: 623788
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 134
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4366516.0
+Binary Size (MB): 0.5458145
+BIBLE_CHAR.11
+Dataset length: 623443
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 134
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4364101.0
+Binary Size (MB): 0.545512625
+BIBLE_CHAR.12
+Dataset length: 624277
+Alphabet Size: 75
+Number of sequences: 4643
+Average Sequence Length: 134
+Number of Queries: 357
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4369939.0
+Binary Size (MB): 0.546242375
+BIBLE_CHAR.13
+Dataset length: 621686
+Alphabet Size: 75
+Number of sequences: 4641
+Average Sequence Length: 133
+Number of Queries: 359
+Average Query Length: 5
+Bits Needed / Symbol: 7.0
+Binary Size (BITS): 4351802.0
+Binary Size (MB): 0.54397525
+BIBLE_WORD.0
+Dataset length: 98575
+Alphabet Size: 5243
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1281475.0
+Binary Size (MB): 0.160184375
+BIBLE_WORD.1
+Dataset length: 99091
+Alphabet Size: 5211
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1288183.0
+Binary Size (MB): 0.161022875
+BIBLE_WORD.2
+Dataset length: 98962
+Alphabet Size: 5263
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1286506.0
+Binary Size (MB): 0.16081325
+BIBLE_WORD.3
+Dataset length: 99369
+Alphabet Size: 5272
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1291797.0
+Binary Size (MB): 0.161474625
+BIBLE_WORD.4
+Dataset length: 99051
+Alphabet Size: 5242
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1287663.0
+Binary Size (MB): 0.160957875
+BIBLE_WORD.5
+Dataset length: 99097
+Alphabet Size: 5224
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1288261.0
+Binary Size (MB): 0.161032625
+BIBLE_WORD.6
+Dataset length: 98744
+Alphabet Size: 5257
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1283672.0
+Binary Size (MB): 0.160459
+BIBLE_WORD.7
+Dataset length: 99130
+Alphabet Size: 5257
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1288690.0
+Binary Size (MB): 0.16108625
+BIBLE_WORD.8
+Dataset length: 98797
+Alphabet Size: 5251
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1284361.0
+Binary Size (MB): 0.160545125
+BIBLE_WORD.9
+Dataset length: 99054
+Alphabet Size: 5223
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1287702.0
+Binary Size (MB): 0.16096275
+BIBLE_WORD.10
+Dataset length: 98771
+Alphabet Size: 5224
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1284023.0
+Binary Size (MB): 0.160502875
+BIBLE_WORD.11
+Dataset length: 98770
+Alphabet Size: 5274
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1284010.0
+Binary Size (MB): 0.16050125
+BIBLE_WORD.12
+Dataset length: 99101
+Alphabet Size: 5287
+Number of sequences: 4581
+Average Sequence Length: 21
+Number of Queries: 352
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1288313.0
+Binary Size (MB): 0.161039125
+BIBLE_WORD.13
+Dataset length: 98963
+Alphabet Size: 5237
+Number of sequences: 4576
+Average Sequence Length: 21
+Number of Queries: 357
+Average Query Length: 3
+Bits Needed / Symbol: 13.0
+Binary Size (BITS): 1286519.0
+Binary Size (MB): 0.160814875
+FIFA.0
+Dataset length: 190412
+Alphabet Size: 2591
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 355
+Average Query Length: 5
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2284944.0
+Binary Size (MB): 0.285618
+FIFA.1
+Dataset length: 190430
+Alphabet Size: 2573
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 355
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2285160.0
+Binary Size (MB): 0.285645
+FIFA.2
+Dataset length: 191143
+Alphabet Size: 2597
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 357
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2293716.0
+Binary Size (MB): 0.2867145
+FIFA.3
+Dataset length: 192158
+Alphabet Size: 2583
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 356
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2305896.0
+Binary Size (MB): 0.288237
+FIFA.4
+Dataset length: 190928
+Alphabet Size: 2592
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 356
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2291136.0
+Binary Size (MB): 0.286392
+FIFA.5
+Dataset length: 191593
+Alphabet Size: 2594
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 357
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2299116.0
+Binary Size (MB): 0.2873895
+FIFA.6
+Dataset length: 190786
+Alphabet Size: 2598
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 356
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2289432.0
+Binary Size (MB): 0.286179
+FIFA.7
+Dataset length: 192828
+Alphabet Size: 2593
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 353
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2313936.0
+Binary Size (MB): 0.289242
+FIFA.8
+Dataset length: 190430
+Alphabet Size: 2605
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 355
+Average Query Length: 5
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2285160.0
+Binary Size (MB): 0.285645
+FIFA.9
+Dataset length: 192522
+Alphabet Size: 2498
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 357
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2310264.0
+Binary Size (MB): 0.288783
+FIFA.10
+Dataset length: 190647
+Alphabet Size: 2561
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 356
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2287764.0
+Binary Size (MB): 0.2859705
+FIFA.11
+Dataset length: 190747
+Alphabet Size: 2595
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 355
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2288964.0
+Binary Size (MB): 0.2861205
+FIFA.12
+Dataset length: 192565
+Alphabet Size: 2567
+Number of sequences: 4643
+Average Sequence Length: 41
+Number of Queries: 357
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2310780.0
+Binary Size (MB): 0.2888475
+FIFA.13
+Dataset length: 190590
+Alphabet Size: 2566
+Number of sequences: 4641
+Average Sequence Length: 41
+Number of Queries: 357
+Average Query Length: 4
+Bits Needed / Symbol: 12.0
+Binary Size (BITS): 2287080.0
+Binary Size (MB): 0.285885
+KOSARAK.0
+Dataset length: 1230568
+Alphabet Size: 22042
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18458520.0
+Binary Size (MB): 2.307315
+KOSARAK.1
+Dataset length: 1229927
+Alphabet Size: 21977
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18448905.0
+Binary Size (MB): 2.306113125
+KOSARAK.2
+Dataset length: 1226366
+Alphabet Size: 22005
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18395490.0
+Binary Size (MB): 2.29943625
+KOSARAK.3
+Dataset length: 1227661
+Alphabet Size: 21973
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18414915.0
+Binary Size (MB): 2.301864375
+KOSARAK.4
+Dataset length: 1232882
+Alphabet Size: 22028
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18493230.0
+Binary Size (MB): 2.31165375
+KOSARAK.5
+Dataset length: 1230806
+Alphabet Size: 21983
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18462090.0
+Binary Size (MB): 2.30776125
+KOSARAK.6
+Dataset length: 1227102
+Alphabet Size: 21608
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18406530.0
+Binary Size (MB): 2.30081625
+KOSARAK.7
+Dataset length: 1230202
+Alphabet Size: 21987
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18453030.0
+Binary Size (MB): 2.30662875
+KOSARAK.8
+Dataset length: 1228963
+Alphabet Size: 21962
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18434445.0
+Binary Size (MB): 2.304305625
+KOSARAK.9
+Dataset length: 1228828
+Alphabet Size: 21759
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18432420.0
+Binary Size (MB): 2.3040525
+KOSARAK.10
+Dataset length: 1227039
+Alphabet Size: 21863
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18405585.0
+Binary Size (MB): 2.300698125
+KOSARAK.11
+Dataset length: 1229135
+Alphabet Size: 22021
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18437025.0
+Binary Size (MB): 2.304628125
+KOSARAK.12
+Dataset length: 1230969
+Alphabet Size: 21987
+Number of sequences: 41786
+Average Sequence Length: 29
+Number of Queries: 3214
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18464535.0
+Binary Size (MB): 2.308066875
+KOSARAK.13
+Dataset length: 1233359
+Alphabet Size: 21910
+Number of sequences: 41782
+Average Sequence Length: 29
+Number of Queries: 3218
+Average Query Length: 5
+Bits Needed / Symbol: 15.0
+Binary Size (BITS): 18500385.0
+Binary Size (MB): 2.312548125
